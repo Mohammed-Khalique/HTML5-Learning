@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+ <html>
+  <head>
+   <title>VistJapan</title>
+   <style type="text/css">
+    body{
+background-color: silver; font-family: sans-serif;
+}
+    h1{
+letter-spacing: 0.1em; color: white; background-color: grey; padding: 10px; margin: 0px; border-bottom: 10px solid;
+}
+    osaka{
+font-size: 20px; background-color: white;
+}
+    tokyo{
+font-size: 20px; background-color: white;
+}
+   </style>
+  </head>
+  <body>
+   <h1>VistJapan</h1>
+   <div class="tokyo">
+    <img src="" alt="A Picture Of Japan" width="" height="">
+    <p>Tokyo, Japan’s busy capital, mixes the ultramodern and the traditional, from neon-lit skyscrapers to historic temples. The opulent Meiji Shinto Shrine is known for its towering gate and surrounding woods. The Imperial Palace sits amid large public gardens. The city's many museums offer exhibits ranging from classical art (in the Tokyo National Museum) to a reconstructed kabuki theater (in the Edo-Tokyo Museum).</p>
+   </div>
+   <div class="osaka">
+    <img src="" alt="A Picture Of Osaka" width="" height="">
+    <p>Osaka is a large port city and commercial center on the Japanese island of Honshu. It's known for its modern architecture, nightlife and hearty street food. The 16th-century shogunate Osaka Castle, which has undergone several restorations, is its main historical landmark. It's surrounded by a moat and park with plum, peach and cherry-blossom trees. Sumiyoshi-taisha is among Japan’s oldest Shinto shrines.</p>
+   </div>
+  </body>
+ </html>
