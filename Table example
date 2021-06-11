@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <title>this is an example of a table</title>
+ </head>
+ <body>
+  <table style="width:50%">
+   <tr>
+    <th>fruit</th>
+    <th>colour</th>
+    <th>size</th>
+   </tr>
+   <tr>
+    <td>apple</td>
+    <td>green</td>
+    <td>medium</td>
+   </tr>
+   <tr>
+    <td>grapes</td>
+    <td>purple</td>
+    <td>small</td>
+   </tr>
+  </table>
+ </body>
+</html>
